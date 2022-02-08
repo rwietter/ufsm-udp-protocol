@@ -65,4 +65,4 @@ while True:
     process_running,
     ip_address
   )
-  sleep(7200)
+  sleep(60)

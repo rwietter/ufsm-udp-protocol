@@ -10,6 +10,9 @@
 #### Make with
 - PostgreSQL
 - Python
+- Xamp
+
+| `Access http://localhost/dashboard and click in PhpMyAdmin`
 
 <br>
 
